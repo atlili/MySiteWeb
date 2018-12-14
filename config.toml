@@ -1,4 +1,4 @@
-baseURL = " https://atlili.github.io/MySiteWeb.github.io/"
+baseURL = " https://atlili.github.io"
 languageCode = "en-us"
 title = "Initio - Free, multipurpose html5 template by GetTemplate"
 theme = "hugo-initio"
