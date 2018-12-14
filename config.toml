@@ -1,20 +1,19 @@
-baseURL = " https://atlili.github.io"
+baseURL = "https://atlili.github.io/MySiteWeb.github.io/"
 languageCode = "en-us"
-title = "Initio - Free, multipurpose html5 template by GetTemplate"
+title = "Initio - Free"
 theme = "hugo-initio"
 publishDir = "docs"
 
 [params]
-    name = "Anthony Russel"
+    name = "Amal Tlili"
     description = "A mystery person"
-    email = "anthony.russel42@example.com"
-    phone = "+234 23 9873237"
-    address = "234 Hidden Pond Road, Ashland City, TN 37015"
-    year = 2017
-    avatar = "images/guy.jpg"
+    email = "amal.tlili04@gmail.com"
+    address = "Sokra, Ariana, Tunisie"
+    year = 2018
+    avatar = "images/amal2.png"
     background = ""
-    favicon = "images/gt_favicon.png"
-    DateForm = "January 2, 2006"
+    favicon = "images/amal2.png"
+    DateForm = "December 6, 2018"
 
     showSubheader = true
     showServices = true
@@ -48,56 +47,42 @@ publishDir = "docs"
 
 [[params.social]]
 	title = "facebook"
-	url = "https://www.facebook.com/nickname"
+	url = "https://www.facebook.com/amal.tlili.524"
     icon = "fa-facebook-square"
     footer = true
     sharethis = true
     network = "facebook"
 [[params.social]]
 	title = "twitter"
-	url = "https://twitter.com/nickname"
+	url = "https://twitter.com/tlili9619"
     icon = "fa-twitter-square"
     footer = true
     sharethis = true
     network = "twitter"
 [[params.social]]
-	title = "instagram"
-	url = "https://www.instagram.com/nickname"
-    icon = "fa-instagram"
-    footer = true
-    sharethis = false
-    network = ""
-[[params.social]]
 	title = "google+"
-	url = "https://plus.google.com/+nickname"
+	url = "https://plus.google.com/107992645194258171307"
     icon = "fa-google-plus-square"
     footer = false
     sharethis = true
     network = "googleplus"
 [[params.social]]
 	title = "linkedin"
-	url = "https://www.linkedin.com/in/nickname"
+	url = "https://www.linkedin.com/in/amal-tlili-a9b473172/"
     icon = "fa-linkedin-square"
     footer = false
     sharethis = true
     network = "linkedin"
 [[params.social]]
-	title = "tumblr"
-	url = "https://nickname.tumblr.com"
-    icon = "fa-tumblr-square"
-    footer = false
-    sharethis = false
-    network = "tumblr"
-[[params.social]]
 	title = "github"
-	url = "https://github.com/nickname"
+	url = "https://github.com/atlili"
     icon = "fa-github"
     footer = true
     sharethis = false
     network = ""
 [[params.social]]
 	title = "email"
-	url = "mailto:some.email@somewhere.com"
+	url = "amal.tlili04@gmail.com"
     icon = "fa-envelope"
     footer = false
     sharethis = true
